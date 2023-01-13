@@ -9,6 +9,7 @@
 }
 .darktext {
   color: rgb(36, 35, 35);
+  display: inline-block;
   background-color: goldenrod;
 }
 footer {
